@@ -1,0 +1,28 @@
+[ git 사용법 설명 ]
+1: https://shxrecord.tistory.com/116
+	< Git Installation >
+	2: https://git-scm.com/downloads
+
+[ git 100MB 이상 자료 업로드 방법설명 ]
+4: https://git-lfs.github.com/
+	< git LFS installation >
+	5. https://hengbokhan.tistory.com/20
+
+[ git branch 생성 방법 ]
+6: https://goddaehee.tistory.com/274
+
+[ git 파일 삭제(로컬, 원격) ]
+7: https://mygumi.tistory.com/103
+
+[ git pull 관련 명령어 ]
+8: https://velog.io/@jiwon709/Git-%EA%B8%B0%EC%B4%88-%EC%82%AC%EC%9A%A9%EB%B2%95-add-commit-push-pull-clone
+
+[ git tutorial ]
+9: https://evan-moon.github.io/2019/07/25/git-tutorial/
+
+[ local branch 삭제 ]
+10: https://blusky10.tistory.com/396
+
+[ Ide 연동 ]
+11. https://bangtal.bosornd.com/posts/visual-studio-github-connect/
+12. https://velog.io/@bb5918/Visual-Studio-2019%EC%97%90%EC%84%9C-github-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0
